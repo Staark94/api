@@ -1,4 +1,4 @@
-# api
+# Simple Rest API PHP
 
 ## Run composer
 composer update && composer dump-auload -o
