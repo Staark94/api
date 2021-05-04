@@ -4,8 +4,8 @@ namespace Src\Model;
 use PDO;
 use Src\DB as DataBase;
 
-class User extends DataBase {
-    private $table = "users";
+class Posts extends DataBase {
+    private $table = "posts";
     
 
     public function get()
